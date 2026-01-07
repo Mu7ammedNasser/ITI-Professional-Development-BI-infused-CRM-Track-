@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Testing/Testing/Testing.cbp" />
+		<Project filename="LabSolving/Lab5/Lab5.cbp" />
+		<Project filename="LabSolving/Lab_5.2/Lab_5.2.cbp" />
+		<Project filename="LabSolving/Lab_5.3/Lab_5.3.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

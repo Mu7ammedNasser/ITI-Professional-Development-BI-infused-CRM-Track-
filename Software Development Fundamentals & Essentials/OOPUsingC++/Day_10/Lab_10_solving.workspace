@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Lab/Lab_10/Lab_10.cbp" />
+		<Project filename="Lab/Lab_10_testing/Lab_10_testing.cbp" />
+		<Project filename="Lab/Lab_10.2/Lab_10.2.cbp" />
+		<Project filename="../Day_9/Lab/Lab_9/Lab_9.cbp" />
+		<Project filename="../../Data Structure/Day_1/Lab/Lab_1.1/Lab_1.1.cbp" />
+		<Project filename="../../Data Structure/Day_1/Lab/Lab_1_DS_Bouns/Lab_1_DS_Bouns.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,16 @@
+# Videos
+*.mp4
+*.mkv
+*.avi
+
+# DB backups
+*.sql
+*.bak
+*.dump
+
+# Node / build
+node_modules/
+dist/
+
+# OS
+.DS_Store

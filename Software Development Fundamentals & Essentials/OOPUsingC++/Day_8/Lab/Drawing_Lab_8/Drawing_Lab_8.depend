@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762955738 source:d:\muhammed nasser\iti(professional development & bi-infused crm track)\software development fundamentals & essentials\oopusingc++\day_8\lab\drawing_lab_8\main.cpp
+	<iostream>
+	"graphics.h"
+
