@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.tab {
+  padding: 8px 15px;
+  background: #eee;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.tab:hover {
+  background: #ccc;
+}
+
+.posts li {
+  margin-bottom: 8px;
+}
