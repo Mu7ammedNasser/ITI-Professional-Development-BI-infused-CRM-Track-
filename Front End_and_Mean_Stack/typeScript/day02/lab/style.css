@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: rgb(10, 46, 46);
+}
+
+.card {
+  border: 2px solid white;
+  padding: 30px;
+  width: 300px;
+  text-align: center;
+  border-radius: 8px;
+  background: rgb(242, 247, 247);
+}
+
+.counter {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 16px;
+  border: 2px solid black;
+  background: transparent;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: black;
+  color: white;
+}
