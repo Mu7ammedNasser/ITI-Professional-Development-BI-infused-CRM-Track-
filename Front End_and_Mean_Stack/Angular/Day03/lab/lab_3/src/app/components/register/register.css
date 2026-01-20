@@ -1,0 +1,51 @@
+main {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  border-radius: 16px;
+  padding: 30px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-shadow: 0 0px 40px rgba(0, 0, 0, 0.2);
+}
+
+main input {
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  background: rgba(255, 255, 255, 0.85);
+  transition: 0.3s;
+}
+
+main input:focus {
+  box-shadow: 0 0 0 2px rgba(10, 173, 10, 0.4);
+}
+
+main button {
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 600;
+  background: linear-gradient(135deg, #0aad0a, #06d706);
+  color: white;
+  transition: 0.3s;
+}
+
+main button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(10, 173, 10, 0.4);
+}
+
+main button:active {
+  transform: scale(0.98);
+}
+
+input::placeholder {
+  color: rgba(46, 46, 46, 0.633);
+  font-style: italic;
+}

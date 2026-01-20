@@ -1,0 +1,28 @@
+<main>
+  <div class="nav-container">
+    <div class="nav">
+      <h1>Photo Gallery</h1>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, repellat.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="slides-container">
+      <div class="prev slides-container-left" (click)="prevImage()">
+        <i class="fa-solid fa-chevron-left fa-2x"></i>
+      </div>
+      <div class="slides">
+        <div class="slide">
+          <img class="slide-content" [src]="images[currentIndex]" alt="slide1" />
+        </div>
+      </div>
+      <div class="next slides-container-right" (click)="nextImage()">
+        <i class="fa-solid fa-chevron-right fa-2x"></i>
+      </div>
+    </div>
+    <div class="controls">
+      <i class="stop fa-solid fa-stop fa-2x" (click)="play()"></i>
+      <i class="slide-show fa-solid fa-play fa-2x" (click)="stop()"></i>
+    </div>
+  </div>
+</main>

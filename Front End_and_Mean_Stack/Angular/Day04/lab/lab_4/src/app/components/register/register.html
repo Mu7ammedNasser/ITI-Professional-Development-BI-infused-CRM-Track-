@@ -1,0 +1,33 @@
+<main>
+  <form [formGroup]="studentForm" (ngSubmit)="addStudent()">
+    <div class="form-floating mb-3">
+      <input
+        formControlName="name"
+        type="text"
+        class="form-control"
+        id="floatingInput"
+        placeholder="Ex: Nasser"
+      />
+      <label for="floatingInput">Name</label>
+      @if (studentForm.get('name')?.invalid && (studentForm.get('name')?.touched || isSubmitted)) {
+        <p class="alert alert-danger py-1 px-2 my-2">
+          Name should be more than 3 chars and less than 50
+        </p>
+      }
+    </div>
+    <div class="form-floating mb-3">
+      <input
+        formControlName="age"
+        type="number"
+        class="form-control"
+        id="floatingInput"
+        placeholder="Ex: 22"
+      />
+      <label for="floatingInput">Age</label>
+      @if (studentForm.get('age')?.invalid && (isSubmitted || studentForm.get('age')?.touched)) {
+        <p class="alert-danger py-1 px-2 alert my-2">Age sould be between 20 and 30</p>
+      }
+    </div>
+    <button type="submit" class="btn w-100 btn-outline-success text-white">ADD</button>
+  </form>
+</main>
