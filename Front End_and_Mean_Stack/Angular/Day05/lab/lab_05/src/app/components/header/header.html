@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-lg">
+    <a class="navbar-brand" routerLink="/home">myApp</a>
+
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a routerLink="/home" routerLinkActive="text-success fw-bold" class="nav-link"> Home </a>
+        </li>
+
+        <li class="nav-item">
+          <a routerLink="/about" routerLinkActive="text-success fw-bold" class="nav-link">
+            About
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a routerLink="/contact-us" routerLinkActive="text-success fw-bold" class="nav-link">
+            Contact
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a [routerLink]="['/users', 1]" routerLinkActive="text-success fw-bold" class="nav-link">
+            Details
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a
+            routerLink="/users"
+            routerLinkActive="text-success fw-bold"
+            [routerLinkActiveOptions]="{ exact: true }"
+            class="nav-link"
+          >
+            Users
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

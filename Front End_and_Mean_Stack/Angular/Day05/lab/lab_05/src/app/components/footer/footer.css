@@ -1,0 +1,8 @@
+footer {
+    box-shadow: 0 0 10px  rgb(216, 215, 215);
+}
+
+.active-link{
+    color: green;
+    font-weight: bold ;
+}
