@@ -1,0 +1,15 @@
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\bin\Debug\net8.0\lab_02.exe
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\bin\Debug\net8.0\lab_02.deps.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\bin\Debug\net8.0\lab_02.runtimeconfig.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\bin\Debug\net8.0\lab_02.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\bin\Debug\net8.0\lab_02.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.AssemblyInfoInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.AssemblyInfo.cs
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.csproj.CoreCompileInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.sourcelink.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\refint\lab_02.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\lab_02.genruntimeconfig.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day02\lab_02\lab_02\lab_02\obj\Debug\net8.0\ref\lab_02.dll

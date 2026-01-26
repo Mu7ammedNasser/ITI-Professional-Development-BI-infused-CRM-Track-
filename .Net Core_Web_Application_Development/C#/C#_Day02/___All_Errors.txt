@@ -1,0 +1,5 @@
+CorrelationId: 5bc80cc1-10b2-45a9-b511-930aa4e4d52a
+UTC DateTime: 01/25/2026 09:50:20
+
+The following file/folder has not been downloaded
+0. C# D02/SD46CSD02/MyProject/obj/Debug/net8.0/MyProject.csproj.BuildWithSkipAnalyzers
