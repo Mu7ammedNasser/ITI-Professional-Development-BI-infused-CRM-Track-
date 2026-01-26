@@ -1,8 +1,8 @@
 import { Routes } from '@angular/router';
 import { Home } from './Components/home/home';
 import { ProductDetails } from './Components/product-details/product-details';
-import { NotFounded } from './Components/not-founded/not-founded';
 import { ProductForm } from './Components/product-form/product-form';
+import { NotFounded } from './Components/not-founded/not-founded';
 
 export const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
