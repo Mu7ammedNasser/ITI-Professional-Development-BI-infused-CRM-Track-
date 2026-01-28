@@ -1,1 +1,121 @@
-<p>product-details works!</p>
+<app-header></app-header>
+
+<main class="bg-gray-100 min-h-screen py-10">
+  <div class="container mx-auto px-4">
+    @if (loading()) {
+      <div class="flex justify-center items-center h-64">
+        <p class="text-xl text-gray-600">Loading product...</p>
+      </div>
+    } @else if (error()) {
+      <div
+        class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded max-w-4xl mx-auto"
+      >
+        <p>{{ error() }}</p>
+      </div>
+    } @else if (product()) {
+      <div class="bg-white rounded-lg shadow-md overflow-hidden p-6 max-w-4xl mx-auto">
+        <div class="flex flex-col md:flex-row">
+          <img
+            src="assets/phonejpg.jpg"
+            [alt]="product()?.name"
+            class="w-full md:w-1/2 h-64 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
+          />
+          <div class="md:w-1/2">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">
+              {{ product()?.name }}
+            </h2>
+
+            <!-- Brand Badge -->
+            @if (product()?.brand) {
+              <span
+                class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mb-4"
+              >
+                {{ product()?.brand }}
+              </span>
+            }
+
+            <p class="text-gray-600 mb-6">
+              {{ product()?.description }}
+            </p>
+
+            <!-- Features List -->
+            @if (product()?.features && product()?.features.length > 0) {
+              <div class="mb-6">
+                <h3 class="text-lg font-semibold text-gray-800 mb-2">Key Features:</h3>
+                <ul class="list-disc list-inside text-gray-600 space-y-1">
+                  @for (feature of product()?.features; track $index) {
+                    <li>{{ feature }}</li>
+                  }
+                </ul>
+              </div>
+            }
+
+            <!-- Price and Rating -->
+            <div class="flex items-center gap-4 mb-6">
+              <span class="text-cyan-600 font-bold text-2xl">${{ product()?.price }}</span>
+              @if (product()?.rating) {
+                <div class="flex items-center">
+                  <span class="text-yellow-500 mr-1">★</span>
+                  <span class="text-gray-700 font-medium">{{ product()?.rating }}</span>
+                </div>
+              }
+            </div>
+
+            <!-- Stock Status -->
+            @if (product()?.stock !== undefined) {
+              <p
+                class="text-sm mb-4"
+                [class.text-green-600]="product()?.stock > 0"
+                [class.text-red-600]="product()?.stock === 0"
+              >
+                @if (product()?.stock > 0) {
+                  {{ product()?.stock }} in stock
+                } @else {
+                  Out of stock
+                }
+              </p>
+            }
+
+            <div class="mt-6">
+              <button
+                [disabled]="!product()?.isAvailable || product()?.stock === 0"
+                class="cursor-pointer m-3 px-6 py-3 bg-cyan-500 hover:bg-cyan-600 text-white rounded-lg text-lg font-medium transition-colors duration-300 disabled:bg-gray-400 disabled:cursor-not-allowed"
+              >
+                Add to Cart
+              </button>
+              <button
+                routerLink="/product-form/{{ product()?.id }}"
+                class="cursor-pointer m-3 px-6 py-3 bg-yellow-500 hover:bg-yellow-600 text-white rounded-lg text-lg font-medium transition-colors duration-300 disabled:bg-gray-400 disabled:cursor-not-allowed"
+              >
+                update Product
+              </button>
+              <button
+                (click)="deleteProduct()"
+                class="cursor-pointer m-3 px-6 py-3 bg-red-500 hover:bg-red-600 text-white rounded-lg text-lg font-medium transition-colors duration-300 disabled:bg-gray-400 disabled:cursor-not-allowed"
+              >
+                Delete Product
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Product Gallery (if multiple images) -->
+        @if (product()?.photos?.gallery && product()?.photos?.gallery.length > 0) {
+          <div class="mt-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Gallery</h3>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+              @for (photo of product()?.photos?.gallery; track $index) {
+                <img
+                  src="assets/phonejpg.jpg"
+                  [alt]="product()?.name + ' - Image ' + ($index + 1)"
+                  class="w-full h-32 object-cover rounded-lg cursor-pointer hover:opacity-75 transition-opacity"
+                />
+              }
+            </div>
+          </div>
+        }
+      </div>
+    }
+  </div>
+</main>
+<app-footer></app-footer>

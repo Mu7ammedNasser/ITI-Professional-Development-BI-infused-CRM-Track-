@@ -1,1 +1,29 @@
-<p>header works!</p>
+<header>
+  <nav class="bg-gray-800 p-4 shadow-cyan-400 shadow-sm">
+    <div class="px-5 container mx-auto flex justify-between items-center">
+      <a routerLink="/home" class="text-white text-2xl font-bold"
+        >be<span class="text-cyan-400">Tech</span></a
+      >
+      <div class="space-x-4">
+        <a
+          routerLink="/home"
+          routerLinkActive="active"
+          class="cursor-pointer text-gray-300 hover:text-white px-3 py-2 rounded-md text-lg font-medium"
+          >Home</a
+        >
+        <a
+          routerLink="/products"
+          routerLinkActive="active"
+          class="cursor-pointer text-gray-300 hover:text-white px-3 py-2 rounded-md text-lg font-medium"
+          >Products</a
+        >
+      </div>
+      <button
+        routerLink="/product-form"
+        class="bg-cyan-500 hover:bg-cyan-600 text-white px-4 py-2 rounded-md cursor-pointer"
+      >
+        Add Product
+      </button>
+    </div>
+  </nav>
+</header>

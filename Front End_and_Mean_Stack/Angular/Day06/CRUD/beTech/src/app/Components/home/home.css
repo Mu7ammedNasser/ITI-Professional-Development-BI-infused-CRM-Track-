@@ -1,0 +1,30 @@
+.hero-section {
+  position: relative;
+}
+
+.hero-content h1 {
+  animation: fadeInUp 1s ease-out;
+}
+
+.hero-content p {
+  animation: fadeInUp 1.2s ease-out;
+}
+
+.hero-content a {
+  animation: fadeInUp 1.4s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-content a:hover {
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.6);
+}
