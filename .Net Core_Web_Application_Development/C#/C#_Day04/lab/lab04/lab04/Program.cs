@@ -11,34 +11,34 @@
             //int x, y, z = 0;
             //for (int i = 0; i < 2; i++)
             //{
-                //Console.WriteLine($"Enter Point Number {i + 1}:");
-                //Console.WriteLine("Enter X:");
-                // x = int.Parse(Console.ReadLine() ?? "0");
+            //Console.WriteLine($"Enter Point Number {i + 1}:");
+            //Console.WriteLine("Enter X:");
+            // x = int.Parse(Console.ReadLine() ?? "0");
 
-                //Console.WriteLine("Enter Y:");
-                // y = int.Parse(Console.ReadLine() ?? "0");
+            //Console.WriteLine("Enter Y:");
+            // y = int.Parse(Console.ReadLine() ?? "0");
 
-                //Console.WriteLine("Enter Z:");
-                // z = int.Parse(Console.ReadLine() ?? "0");
+            //Console.WriteLine("Enter Z:");
+            // z = int.Parse(Console.ReadLine() ?? "0");
 
-                //Console.WriteLine("Enter X:");
-                //int.TryParse(Console.ReadLine() ?? "0", out x);
+            //Console.WriteLine("Enter X:");
+            //int.TryParse(Console.ReadLine() ?? "0", out x);
 
-                //Console.WriteLine("Enter Y:");
-                //int.TryParse(Console.ReadLine() ?? "0", out y);
+            //Console.WriteLine("Enter Y:");
+            //int.TryParse(Console.ReadLine() ?? "0", out y);
 
-                //Console.WriteLine("Enter Z:");
-                //int.TryParse(Console.ReadLine() ?? "0", out z);
+            //Console.WriteLine("Enter Z:");
+            //int.TryParse(Console.ReadLine() ?? "0", out z);
 
 
-                //Console.WriteLine("Enter X:");
-                //x = Convert.ToInt32( Console.ReadLine() );
+            //Console.WriteLine("Enter X:");
+            //x = Convert.ToInt32( Console.ReadLine() );
 
-                //Console.WriteLine("Enter Y:");
-                //y = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter Y:");
+            //y = Convert.ToInt32(Console.ReadLine());
 
-                //Console.WriteLine("Enter Z:");
-                //z = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter Z:");
+            //z = Convert.ToInt32(Console.ReadLine());
 
             //}
             #endregion
@@ -75,7 +75,60 @@
             #endregion
 
 
+
+
+
             #endregion
+
+            #region lab06
+            _3DPoint p1 = new _3DPoint(1, 2, 3);
+            _3DPoint p2 = new _3DPoint(1, 2, 3);
+            //p1 = p2;
+            if (p1 == p2)
+            {
+                Console.WriteLine("Equals");
+            }
+            else
+            {
+                Console.WriteLine("notEquals");
+            }
+
+            if (p1.Equals(p2))
+            {
+                Console.WriteLine("Equals");
+            }
+            else
+            {
+                Console.WriteLine("notEquals");
+            }
+
+            _3DPoint[] points = new _3DPoint[]
+            {
+                new _3DPoint (1, 2, 3),
+                new _3DPoint (5, 2, 3),
+                new _3DPoint (0, 5, 3),
+                new _3DPoint (-1, 2, 3),
+
+
+            };
+
+            Array.Sort(points);
+
+            foreach (var item in points)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            _3DPoint point1 = new _3DPoint(1, 2, 3);
+
+            _3DPoint point2 = (_3DPoint)point1.Clone();
+
+            Console.WriteLine(point1);
+            Console.WriteLine(point2);
+
+            #endregion
+
         }
     }
 }
