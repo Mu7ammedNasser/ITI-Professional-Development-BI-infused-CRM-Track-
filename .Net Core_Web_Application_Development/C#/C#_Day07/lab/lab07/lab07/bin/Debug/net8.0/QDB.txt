@@ -34,3 +34,9 @@ QUESTION_TEXT:A sealed class can be inherited by other classes.
 MARK:2
 ANSWER:FALSE
 ---
+QUESTION_TYPE:TF
+QUESTION_ID:6
+QUESTION_TEXT:A sealed class can be inherited by other classes.
+MARK:2
+ANSWER:FALSE
+---

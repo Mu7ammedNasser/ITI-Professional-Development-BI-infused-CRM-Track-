@@ -1,0 +1,17 @@
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\C#\C#_Day10\lab\Lab10\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll

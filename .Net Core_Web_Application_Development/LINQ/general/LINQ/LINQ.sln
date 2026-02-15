@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab01_linq", "lab01_linq\lab01_linq.csproj", "{897374E7-57F8-48D4-B72C-9B077B8095B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02", "Lab02\Lab02.csproj", "{6A8C9B24-DF71-4A84-9342-86A4B6735C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab02_part_3", "lab02_part_3\lab02_part_3.csproj", "{94A5CF6E-E399-4D3C-A8ED-654E19FE5B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897374E7-57F8-48D4-B72C-9B077B8095B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897374E7-57F8-48D4-B72C-9B077B8095B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897374E7-57F8-48D4-B72C-9B077B8095B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897374E7-57F8-48D4-B72C-9B077B8095B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8C9B24-DF71-4A84-9342-86A4B6735C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8C9B24-DF71-4A84-9342-86A4B6735C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8C9B24-DF71-4A84-9342-86A4B6735C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8C9B24-DF71-4A84-9342-86A4B6735C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A5CF6E-E399-4D3C-A8ED-654E19FE5B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A5CF6E-E399-4D3C-A8ED-654E19FE5B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A5CF6E-E399-4D3C-A8ED-654E19FE5B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A5CF6E-E399-4D3C-A8ED-654E19FE5B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8748429-D379-4D07-8D2C-46AB7966C208}
+	EndGlobalSection
+EndGlobal

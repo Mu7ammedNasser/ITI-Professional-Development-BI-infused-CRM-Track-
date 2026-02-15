@@ -16,8 +16,14 @@ namespace lab07
         public int Mark { get; set; }
 
         public string? CorrectAnswer {get; set;} // for TF
+        public string? userAnswer {get; set;} 
 
-        public abstract void DisplayQues();
+        public abstract void DisplayQues(bool examType);
+        public abstract void getStudentAnswers();
+        public abstract bool storeStudentAnswer();
+
+
+
 
     }
 }

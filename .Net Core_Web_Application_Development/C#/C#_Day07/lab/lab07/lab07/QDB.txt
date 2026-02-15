@@ -1,0 +1,36 @@
+QUESTION_TYPE:MCQ
+QUESTION_ID:1
+QUESTION_TEXT:Can you instantiate an abstract class in C#?
+MARK:5
+CHOICE:Yes|FALSE
+CHOICE:No|TRUE
+---
+QUESTION_TYPE:MCQ
+QUESTION_ID:2
+QUESTION_TEXT:Which access modifier makes a member accessible only within its own class?
+MARK:3
+CHOICE:Public|FALSE
+CHOICE:Private|TRUE
+CHOICE:Protected|FALSE
+---
+QUESTION_TYPE:TF
+QUESTION_ID:3
+QUESTION_TEXT:Inheritance allows a class to inherit properties and methods from another class.
+MARK:2
+	:TRUE
+---
+QUESTION_TYPE:MCQ
+QUESTION_ID:4
+QUESTION_TEXT:What is the default value of an integer variable in C#?
+MARK:4
+CHOICE:null|FALSE
+CHOICE:0|TRUE
+CHOICE:1|FALSE
+CHOICE:undefined|FALSE
+---
+QUESTION_TYPE:TF
+QUESTION_ID:5
+QUESTION_TEXT:A sealed class can be inherited by other classes.
+MARK:2
+ANSWER:FALSE
+---
