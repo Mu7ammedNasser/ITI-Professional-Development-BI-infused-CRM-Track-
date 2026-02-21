@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02_EF_Demo", "Day02_EF_Demo\Day02_EF_Demo.csproj", "{E39714E7-17E0-479F-AF07-92D68F24F97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreD02SimpleMantToMany", "EFCoreD02SimpleMantToMany\EFCoreD02SimpleMantToMany.csproj", "{CDFB48E4-31C8-4310-AB30-887F4BB088B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E39714E7-17E0-479F-AF07-92D68F24F97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39714E7-17E0-479F-AF07-92D68F24F97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39714E7-17E0-479F-AF07-92D68F24F97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39714E7-17E0-479F-AF07-92D68F24F97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFB48E4-31C8-4310-AB30-887F4BB088B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFB48E4-31C8-4310-AB30-887F4BB088B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFB48E4-31C8-4310-AB30-887F4BB088B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFB48E4-31C8-4310-AB30-887F4BB088B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D63F71A-0FBD-4AC7-A5DA-E2DB2E6E66DC}
+	EndGlobalSection
+EndGlobal

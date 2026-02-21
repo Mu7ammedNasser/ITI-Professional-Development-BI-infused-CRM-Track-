@@ -1,0 +1,15 @@
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\bin\Debug\net8.0\lab02_part_3.exe
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\bin\Debug\net8.0\lab02_part_3.deps.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\bin\Debug\net8.0\lab02_part_3.runtimeconfig.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\bin\Debug\net8.0\lab02_part_3.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\bin\Debug\net8.0\lab02_part_3.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.AssemblyInfoInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.AssemblyInfo.cs
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.csproj.CoreCompileInputs.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.sourcelink.json
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\refint\lab02_part_3.dll
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.pdb
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\lab02_part_3.genruntimeconfig.cache
+D:\muhammed nasser\ITI-Professional-Development-BI-infused-CRM\.Net Core_Web_Application_Development\LINQ\general\LINQ\lab02_part_3\obj\Debug\net8.0\ref\lab02_part_3.dll
