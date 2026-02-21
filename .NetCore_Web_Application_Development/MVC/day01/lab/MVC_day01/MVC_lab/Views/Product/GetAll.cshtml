@@ -1,0 +1,33 @@
+﻿
+<h1 style="color: steelblue">
+	All Products
+</h1>
+
+<table class="table">
+    <thead style="background-color: steelblue">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Count</th>
+            <th scope="col">Details</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var product in Model)
+        {
+            <tr>
+                <th>@product.Id</th>
+                <td>@product.Title</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                <td>@product.Count</td>
+                <td>
+                    <a href="~/Product/GetById/@product.Id" class="btn btn-primary">Show Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

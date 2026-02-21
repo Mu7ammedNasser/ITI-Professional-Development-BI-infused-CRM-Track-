@@ -28,8 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ITI/ITI-Professional-Development-BI-infused-CRM-Track-/.NetCore_Web_Application_Development/MVC/day01/lab/MVC_day01/MVC_lab/Views/Product/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/ITI-Professional-Development-BI-infused-CRM-Track-/.NetCore_Web_Application_Development/MVC/day01/lab/MVC_day01/MVC_lab/Views/Product/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ITI/ITI-Professional-Development-BI-infused-CRM-Track-/.NetCore_Web_Application_Development/MVC/day01/lab/MVC_day01/MVC_lab/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI/ITI-Professional-Development-BI-infused-CRM-Track-/.NetCore_Web_Application_Development/MVC/day01/lab/MVC_day01/MVC_lab/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ITI/ITI-Professional-Development-BI-infused-CRM-Track-/.NetCore_Web_Application_Development/MVC/day01/lab/MVC_day01/MVC_lab/Views/Shared/_ValidationScriptsPartial.cshtml]
