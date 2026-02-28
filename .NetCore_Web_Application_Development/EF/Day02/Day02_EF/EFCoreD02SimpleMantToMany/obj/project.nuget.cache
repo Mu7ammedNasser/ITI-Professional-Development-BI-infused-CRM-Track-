@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31uztb9Mnes=",
+  "dgSpecHash": "NBFVkmDBR1s=",
   "success": true,
-  "projectFilePath": "D:\\muhammedNasser\\ITI-Professional-Development-BI-infused-CRM\\.Net Core_Web_Application_Development\\EF\\Day02\\Day02_EF\\EFCoreD02SimpleMantToMany\\EFCoreD02SimpleMantToMany.csproj",
+  "projectFilePath": "D:\\ITI\\ITI-Professional-Development-BI-infused-CRM-Track-\\.NetCore_Web_Application_Development\\EF\\Day02\\Day02_EF\\EFCoreD02SimpleMantToMany\\EFCoreD02SimpleMantToMany.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ahmed\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

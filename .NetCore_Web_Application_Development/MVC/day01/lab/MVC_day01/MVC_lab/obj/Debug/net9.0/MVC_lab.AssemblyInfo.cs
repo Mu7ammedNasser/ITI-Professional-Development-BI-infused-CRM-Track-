@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2637f8e6f372687518393b0c55c94fbe484fb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe6daf9be27c764a0e52f2b033c72d0569611a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

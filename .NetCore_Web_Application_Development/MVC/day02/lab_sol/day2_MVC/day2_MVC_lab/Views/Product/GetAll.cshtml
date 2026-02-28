@@ -1,0 +1,46 @@
+﻿@model List<day2_MVC_lab.ViewModels.ProductVM>
+
+
+
+<h1 style="color: steelblue">
+    All Products
+</h1>
+
+<div>
+	<a href="~/Product/Create" class=" me-auto btn btn-success">Create New Product + </a>
+</div>
+<table class="table">
+    <thead style="background-color: steelblue">
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Actions</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var product in Model)
+        {
+            <tr>
+                @* <th>@product.Id</th> *@
+                <td>@product.Title</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                @* <td>@product.Count</td> *@
+                
+                <td>
+                    <a href="~/Product/GetById/@product.Id" class="btn btn-primary"> Details</a>
+                    <a href="~/Product/Edit/@product.Id" class="btn btn-warning"> Edit</a>
+                    <a href="~/Product/Delete/@product.Id"
+                       class="btn btn-outline-danger"
+                       onclick="return confirm('Are you sure?');">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
