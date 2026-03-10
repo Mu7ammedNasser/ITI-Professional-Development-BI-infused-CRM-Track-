@@ -1,0 +1,29 @@
+﻿@model List<ProductCategoryReadVm>
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Price</th>
+			<th>Description</th>
+			<th>Count</th>
+			<th>Expire Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var product in Model)
+		{
+			<tr>
+				<td>@product.Id</td>
+				<td>@product.Name</td>
+				<td>@product.Price</td>
+				<td>@product.Description</td>
+				<td>@product.Count</td>
+				<td>@product.ExpireDate</td>
+			</tr>
+		}
+
+	</tbody>
+
+</table>

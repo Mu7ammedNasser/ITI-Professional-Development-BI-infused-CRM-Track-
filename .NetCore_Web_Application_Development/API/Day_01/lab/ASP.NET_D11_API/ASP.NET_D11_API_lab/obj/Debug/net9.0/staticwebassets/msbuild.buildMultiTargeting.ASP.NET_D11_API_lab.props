@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP.NET_D11_API_lab.props" />
+</Project>

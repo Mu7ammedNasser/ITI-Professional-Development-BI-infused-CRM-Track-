@@ -1,0 +1,15 @@
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\bin\Debug\net9.0\ASP.NetCore_day08_DI.exe
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\bin\Debug\net9.0\ASP.NetCore_day08_DI.deps.json
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\bin\Debug\net9.0\ASP.NetCore_day08_DI.runtimeconfig.json
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\bin\Debug\net9.0\ASP.NetCore_day08_DI.dll
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\bin\Debug\net9.0\ASP.NetCore_day08_DI.pdb
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.AssemblyInfoInputs.cache
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.AssemblyInfo.cs
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.sourcelink.json
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.dll
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\refint\ASP.NetCore_day08_DI.dll
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.pdb
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ASP.NetCore_day08_DI.genruntimeconfig.cache
+D:\ITI\ITI-Professional-Development-BI-infused-CRM-Track-\.NetCore_Web_Application_Development\MVC\day08\lab\ASP.NetCore_day08\ASP.NetCore_day08_DI\obj\Debug\net9.0\ref\ASP.NetCore_day08_DI.dll
